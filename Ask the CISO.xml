@@ -11,8 +11,8 @@
   <DisplayName DefaultValue="Ask the CISO"/>
   <Description DefaultValue="תוסף זה מהווה את נקודת הכניסה המרכזית לפניות אל חברת אבטחת המידע OFIRSEC בנושאי שינויים, בקשות ותהליכי התאמה שונים."/>
   
-  <IconUrl DefaultValue="https://talya-dina.github.io/Ask-the-CISO/SECicon.PNG"/>
-  <HighResolutionIconUrl DefaultValue="https://https://pingman-boop.github.io/Ask-the-CISO/SECicon.PNG"/>
+  <IconUrl DefaultValue="https://pingman-boop.github.io/Ask-the-CISO/SECicon.PNG"/>
+  <HighResolutionIconUrl DefaultValue="https://pingman-boop.github.io/Ask-the-CISO/SECicon.PNG"/>
   
   <Hosts>
     <Host Name="Mailbox"/>
@@ -31,7 +31,7 @@
     </Form>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://talya-dina.github.io/Ask-the-CISO/info.html"/>
+        <SourceLocation DefaultValue="https://pingman-boop.github.io/Ask-the-CISO/info.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
